@@ -1,7 +1,4 @@
 include ':app',
         ':common:lib_common_android_b',
-        ':lib_java_a',
-        ':lib_android_a',
+        ':common:lib_common_java_a',
         ':common:lib_common_android_a'
-project(':lib_java_a').projectDir = new File('shared/lib_java_a')
-project(':lib_android_a').projectDir = new File('shared/lib_android_a')
