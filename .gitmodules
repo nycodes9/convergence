@@ -1,7 +1,3 @@
-[submodule "shared"]
-	path = shared
-	url = https://github.com/nycodes9/shared-submodule.git
-	branch = master
 [submodule "common"]
 	path = common
 	url = https://github.com/nycodes9/shared-folder.git
