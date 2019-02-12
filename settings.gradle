@@ -1,4 +1,4 @@
 include ':app',
-        ':common:lib_common_android_b',
         ':common:lib_common_java_a',
-        ':common:lib_common_android_a'
+        ':common:lib_common_android_a',
+        ':common:lib_common_android_b'
