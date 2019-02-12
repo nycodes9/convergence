@@ -1,0 +1,4 @@
+[submodule "shared"]
+	path = shared
+	url = https://github.com/nycodes9/shared-submodule.git
+	branch = master
